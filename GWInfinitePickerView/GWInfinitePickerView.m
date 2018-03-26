@@ -25,7 +25,7 @@
 #import "PickerViewDataSourceSurrogate.h"
 #import "PickerViewDelegateSurrogate.h"
 
-NSInteger const kInfinitivePickerViewRowOffset = 1000;
+NSInteger const kInfinitivePickerViewRowOffset = 100000;
 
 @interface GWInfinitePickerView()
 
